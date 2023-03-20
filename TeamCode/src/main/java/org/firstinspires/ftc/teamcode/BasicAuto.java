@@ -4,7 +4,7 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
-public class BasicAuto extends LinearOpMode {
+public class git branchBasicAuto extends LinearOpMode {
 
     private DcMotor frontLeft = null;
     private DcMotor frontRight = null;
